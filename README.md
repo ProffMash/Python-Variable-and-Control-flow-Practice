@@ -1,6 +1,6 @@
 # Python Programs
 
-This repository contains simple Python programs for beginners to help understand basic programming concepts like variables, control structures, and input/output.
+This repository contains simple Python programs to help understand basic programming concepts like variables, control structures, and input/output.
 
 ## Table of Contents
 
